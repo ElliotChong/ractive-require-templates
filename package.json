@@ -1,0 +1,32 @@
+{
+	"name": "require-ractive-templates",
+	"description": "Require Ractive templates within Node.js",
+	"license": "MIT",
+	"version": "1.0.0",
+	"author": [
+		"Elliot Chong <code+require-ractive-templates@elliotjameschong.com>"
+	],
+	"main": "index.js",
+	"keywords": [
+		"ractive",
+		"require",
+		"templates"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ElliotChong/ractive-require-templates.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ElliotChong/debug-plus/issues"
+	},
+	"homepage": "https://github.com/ElliotChong/debug-plus",
+	"devDependencies": {
+		"coffee-script": "1.9.3",
+		"grunt": "0.4.5",
+		"grunt-contrib-coffee": "0.12.0",
+		"grunt-conventional-changelog": "1.1.0",
+		"grunt-notify": "0.4.1",
+		"jit-grunt": "0.9.0",
+		"load-grunt-config": "0.16.0"
+	}
+}
