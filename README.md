@@ -1,4 +1,4 @@
-# Require Ractive templates
+# Require Ractive Templates
 
 Require [Ractive](http://www.ractivejs.org/) templates within Node.js.
 
