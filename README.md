@@ -31,7 +31,7 @@ require("ractive-require-templates")(".ractstache");
 
 (The MIT License)
 
-Copyright (c) 2014 Elliot Chong &lt;code+require-ractive-templates@elliotjameschong.com&gt;
+Copyright (c) 2014 Elliot Chong &lt;code+ractive-require-templates@elliotjameschong.com&gt;
 
 	Permission is hereby granted, free of charge, to any person obtaining
 	a copy of this software and associated documentation files (the
