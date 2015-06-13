@@ -15,13 +15,14 @@ Default usage supporting `ract`, `ractive`, and `html` file extensions:
 require("ractive-require-templates");
 var Ractive = require("ractive");
 
-new Ractive({
-	el: "container",
+var ractive = new Ractive({
 	template: require("./template.ractive")
 });
+
+console.log(ractive.toHTML());
 ```
-  
+
 Specify file extensions:
 ```JavaScript
-require("ractive-require-templates")(".mustache");
+require("ractive-require-templates")(".ractstache");
 ```
