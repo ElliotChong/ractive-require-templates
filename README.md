@@ -5,12 +5,12 @@ Require [Ractive](http://www.ractivejs.org/) templates within Node.js.
 ## Installation
 
 ```bash
-$ npm install debug-plus
+$ npm install ractive-require-templates
 ```
 
 ## Usage
 
-Default usage supporting `ract`, `ractive`, and `html` file extensions:
+Default usage supports `ract`, `ractive`, and `html` file extensions:
 ```JavaScript
 require("ractive-require-templates");
 var Ractive = require("ractive");
