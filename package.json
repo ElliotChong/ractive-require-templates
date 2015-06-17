@@ -17,9 +17,9 @@
 		"url": "https://github.com/ElliotChong/ractive-require-templates.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ElliotChong/debug-plus/issues"
+		"url": "https://github.com/ElliotChong/ractive-require-templates/issues"
 	},
-	"homepage": "https://github.com/ElliotChong/debug-plus",
+	"homepage": "https://github.com/ElliotChong/ractive-require-templates",
 	"devDependencies": {
 		"coffee-script": "1.9.3",
 		"grunt": "0.4.5",
