@@ -2,7 +2,7 @@
 	"name": "ractive-require-templates",
 	"description": "Require Ractive templates within Node.js",
 	"license": "MIT",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": [
 		"Elliot Chong <code+ractive-require-templates@elliotjameschong.com>"
 	],
